@@ -1,7 +1,6 @@
 {
   "name": "gamie-backend",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/index.js"

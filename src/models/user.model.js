@@ -10,6 +10,9 @@ const userSchema = mongoose.Schema({
         type: String,
         unique: true
     },
+    xp : {
+        type: Number
+    },
     wallet_address: String,
     password: String
 })
